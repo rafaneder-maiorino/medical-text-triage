@@ -1,4 +1,6 @@
-# Triagem Automática de Laudos Médicos — Tech Challenge FIAP Fase 3
+# Triagem Automática de Laudos Médicos
+
+> Projeto desenvolvido na Pós Tech em Machine Learning Engineering (FIAP), como Tech Challenge da Fase 3.
 
 Classificador de texto (NLP) que roteia laudos/abstracts médicos por área
 clínica, servido por uma API REST em container Docker. O projeto exercita o
